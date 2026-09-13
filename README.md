@@ -140,8 +140,3 @@ BeautifulSoup · geopy/Nominatim
 Developed with Alexandre Ferreira for the Data Visualisation and Analysis course
 of the MSc in Artificial Intelligence and Data Science, University of Coimbra
 (2024/2025).
-
-## License
-
-Released under the MIT License — see [`LICENSE`](LICENSE). Copyright is shared
-with Alexandre Ferreira, who co-authored the project.
